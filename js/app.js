@@ -2,14 +2,6 @@
  * Project 4 - OOP Game App
  * app.js */
 
- /** Function to get keydown press
-// const log = document.getElementById('log');
-
-// document.addEventListener('keypress', logKey);
-
-
-*/
-
 // Variables
 const startButton = document.getElementById('btn__reset');
 const keyboard = document.querySelector('#qwerty');
