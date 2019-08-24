@@ -4,6 +4,20 @@
 
 My goal is to exceed expectations for this project based on the requirements listed below.
 
+## Customizations Added
+
+I added custom CSS animations from the provided `animate.css` package provided in the project files.
+
+    - Every time a new game starts the phrases drops down onto the screen
+    - The character are revealed by a fading out and droping down transition
+    - The keyboard classes are add with a flip in animation
+
+I decided upon these animation choices for a smooth look for the game, and left the colors what they were because I liked the blend they had.
+
+There are also custom messages depending on whether you win/lose the game and the buttons at the end say "Play again?" for a winning game or "Try again?" for a losing game and if the game was lost then the phrase was displayed.
+
+Also I put 9 phrases into the game because through testing I continued to know the answers so I would put more in as I was going. 
+
 ## Phrase Class
 
 ### Meets Expectations (Exceeds Expectations N/A)
